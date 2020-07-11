@@ -42,9 +42,34 @@ section{
     background-position: right;
     
 }
-#change{
-    text-align: justify;
+
+
+footer{
+    text-align: center;
+    color: red;
+    font-weight: 800;
+    font-size: 12px;
+
 }
 
+img{
+    height: 500px;
+    width: 500px;
+}
+
+#single-experience{
+
+    box-shadow:10px 10px 40px gray;
+    border-radius: 10px;
+    border-left: 7px solid red;
+    border-image-slice: 1px;
+    height: 60%;
+}
+
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    position: relative;
+}
 
 
